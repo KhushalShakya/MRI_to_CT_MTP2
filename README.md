@@ -1,1 +1,1 @@
-The above code utilizes the pix2pix aprroach for generating CT from MRI sequence. Three different approaches are used and three pynb are uploaded for the same. The input required is the merge image of input andd target of size(256,512)
+The above code utilizes the pix2pix aprroach for generating CT from MRI sequence. Three different approaches are used and three pynb are uploaded for the same. The input required is the merge image of input and target of size(256,512)
